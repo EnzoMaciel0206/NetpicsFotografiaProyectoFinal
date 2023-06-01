@@ -1,0 +1,5 @@
+netpicsfotografia.RegistroClientes$3
+netpicsfotografia.RegistroClientes$2
+netpicsfotografia.RegistroClientes$1
+netpicsfotografia.RegistroClientes
+netpicsfotografia.RegistroClientes$4

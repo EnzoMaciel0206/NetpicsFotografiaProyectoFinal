@@ -1,0 +1,4 @@
+netpicsfotografia.RevisarAceptar$1
+netpicsfotografia.RevisarAceptar$3
+netpicsfotografia.RevisarAceptar$2
+netpicsfotografia.RevisarAceptar
